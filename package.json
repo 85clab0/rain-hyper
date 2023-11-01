@@ -1,6 +1,6 @@
 {
   "name": "hyper-theme-rain",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Rain theme for Hyper",
   "main": "index.js",
   "scripts": {
