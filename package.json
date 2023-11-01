@@ -1,15 +1,25 @@
 {
-  "name": "rain-hyper",
+  "name": "hyper-theme-rain",
   "version": "1.0.0",
-  "description": "",
+  "description": "Rain theme for Hyper",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky install"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "repository":{
+    "type": "git",
+    "url": "github.com/85clab0/rain-hyper"
+  },
+  "keywords": [
+    "hyperterm",
+    "hyper",
+    "hyper.app",
+    "hyper rain",
+    "hyper theme",
+    "rain-theme"
+  ],
+  "author": "85clab0 <85clab0@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "husky": "^8.0.0",
     "lint-staged": "^15.0.2",
